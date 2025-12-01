@@ -1,4 +1,8 @@
 Ana
+<<<<<<< HEAD
 Mar Rodríguez González
+=======
+Mar Rodríguez González
+>>>>>>> e2e6cb4b3bcf5b57c836aee1d3cf1e40338c7736
 Pepe
 María y Luis
